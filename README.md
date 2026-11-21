@@ -15,6 +15,12 @@ My implementation of the Linux core utilities written in Rust.
 Build the entire workspace or specific utilities from the root directory:
 
 ```bash
+# Clone repo
+git clone https://github.com/kforkernel/linux-rust-core-utils
+
+# Move into repo
+cd linux-rust-core-utils
+
 # Build all utilities in release mode
 cargo build --release --workspace
 
