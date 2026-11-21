@@ -42,7 +42,7 @@ Line 1
 Line 2	Tabbed
 
 # Print a literal flag using --
-echo -- -n
+$ echo -- -n
 -n
 ```
 
