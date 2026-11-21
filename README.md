@@ -25,6 +25,12 @@ cargo build --release -p echo
 ./target/release/echo "Hello, world!"
 ```
 
+Or move them into the `/usr/local/bin` directory:
+
+```bash
+sudo mv ./echo /usr/local/bin
+```
+
 ## License
 
 This project is under the kforkernel Use License (KUL) v1.0. See [LICENSE.md](LICENSE.md).
