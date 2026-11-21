@@ -25,7 +25,7 @@ cargo build --release -p echo
 ./target/release/echo "Hello, world!"
 ```
 
-Or move them into the `/usr/local/bin` directory:
+Move them into the `/usr/local/bin` directory:
 
 ```bash
 sudo mv ./echo /usr/local/bin
