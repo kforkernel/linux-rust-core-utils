@@ -33,7 +33,7 @@ $ echo Hello, world!
 Hello, world!
 
 # Print without a trailing newline
-\$ echo -n "No newline here"
+$ echo -n "No newline here"
 No newline here$
 
 # Interpret escape sequences
@@ -50,4 +50,4 @@ $ echo -- -n
 Written by `@kforkernel`.
 
 ## LICENSE
-Licensed under the kforkernel Use License (KUL) v1.0. See [LICENSE.md](../LICENSE.md) for details.
+Licensed under the kforkernel Use License (KUL) v1.0. See [LICENSE.md](../../../LICENSE.md) for details.
