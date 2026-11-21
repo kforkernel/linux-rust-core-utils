@@ -112,7 +112,7 @@ impl CmdLineArgs{
                 continue;
             }
 
-            if i == "--" && !mcheck && !wcheck{ // this means if mcheck = false it will run cos it make sit true ! makes opposite
+            if i == "--" && !mcheck && !wcheck{ // this means if mcheck = false it will run cos it makes it true ! makes opposite
                 // but if mcheck is true because the -- flag was detected before it will become false and this code wont run
                 // because !true is false
                 parsed_args.master_flag = true;
