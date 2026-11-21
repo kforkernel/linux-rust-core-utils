@@ -29,16 +29,21 @@ Flags must appear **before** any text arguments and cannot be repeated or combin
 ## EXAMPLES
 ```bash
 # Print a standard message
-echo Hello, world!
+\$ echo Hello, world!
+Hello, world!
 
 # Print without a trailing newline
-echo -n "No newline here"
+\$ echo -n "No newline here"
+No newline here\$
 
 # Interpret escape sequences
-echo -e "Line 1\nLine 2\tTabbed"
+\$ echo -e "Line 1\nLine 2\tTabbed"
+Line 1
+Line 2	Tabbed
 
 # Print a literal flag using --
 echo -- -n
+-n
 ```
 
 ## AUTHOR
