@@ -1,4 +1,4 @@
-# echo(1) — Linux Rust Core Utils
+# echo — Linux Rust Core Utils
 
 ## NAME
 `echo` - display a line of text
