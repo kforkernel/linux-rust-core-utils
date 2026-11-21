@@ -50,4 +50,4 @@ $ echo -- -n
 Written by `@kforkernel`.
 
 ## LICENSE
-Licensed under the kforkernel Use License (KUL) v1.0. See [LICENSE.md](../../../LICENSE.md) for details.
+Licensed under the kforkernel Use License (KUL) v1.0. See [LICENSE.md](../../LICENSE.md) for details.
